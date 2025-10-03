@@ -1,0 +1,9 @@
+insert into course (id, name, author)
+values(1, 'Learn AWS', 'Kellspell');
+
+select * from course
+
+delete from course where id=1
+
+In this project we are covering JDBC , Spring JDBC and JPA
+Hibernet vs Jpa , Jakarta 
